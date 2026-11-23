@@ -14,17 +14,8 @@
 
 | Outils & IDE | OS | Virtualisation | Réseaux & Comm. | Architecture | Patterns | Sécurité Web |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| • Git<br>• Linux commands<br>• Helix<br>• Android Studio | • Windows<br>• Mac<br>• Linux (Ubuntu, Arch) | • Docker<br>• VMware<br>• Proxmox | • HTTP<br>• TCP <br>• UDP <br>• WebSockets<br>• WebRTC | • MVC<br>• SPA<br>• Monolith | • SOLID<br>• Injection de dépendence<br>• Strategy Pattern | • XSS<br>• SQLi<br>• CORS<br>• CSRF<br>• Token bearer<br>• Token JWT |
+| • Git<br>• Linux commands<br>• Helix<br>• Android Studio | • Windows<br>• Mac<br>• Linux (Ubuntu, Arch) | • Docker<br>• VMware<br>• Proxmox | • WireShark<br>• HTTP<br>• TCP <br>• UDP <br>• WebSockets<br>• WebRTC | • MVC<br>• SPA<br>• Monolith | • SOLID<br>• Injection de dépendence<br>• Strategy Pattern | • XSS<br>• SQLi<br>• CORS<br>• CSRF<br>• Token bearer<br>• Token JWT |
 
 ## CV
 
 Réalisé avec le site [Oh My CV!](https://ohmycv.app/) en utilisant du markdown + html + css.
-
-# TODO
-
-- [ ] Afficher la liste de tout mes projets ici avec les stacks utilises.
-
-## A voir
-
-- [ ] Ansible
-- [ ] WebTransport
